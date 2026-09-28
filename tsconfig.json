@@ -1,0 +1,10 @@
+{
+  "extends": "./.kyber/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "ignoreDeprecations": "6.0"
+  },
+  "include": [
+    "src"
+  ]
+}

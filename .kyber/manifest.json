@@ -1,0 +1,26 @@
+{
+  "id": "bc9fc895-1209-4c91-bf6f-3b4a3617d479",
+  "name": "Ota Dashboard",
+  "slug": "ota-dashboard",
+  "isMobile": false,
+  "gitRepo": null,
+  "gitRepoPrototypeBranch": null,
+  "gitRepoPrototypePath": null,
+  "localDevPath": "/Users/bimpe_abimbola/Claude Projects/ota-dashboard",
+  "created": "2026-05-14T07:40:45.656Z",
+  "lastUpdated": "2026-09-04T04:13:57.768Z",
+  "lastDeployedCommit": null,
+  "lastDeployedBy": "bimpe_abimbola",
+  "authors": [
+    "bimpe_abimbola"
+  ],
+  "meta": {
+    "tags": [],
+    "ckp-version-create": "1.0.144",
+    "ckp-version-dev": "1.0.144"
+  },
+  "template": "html",
+  "platform": "prototypes",
+  "injectorDefaultUrl": null,
+  "access": null
+}

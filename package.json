@@ -1,0 +1,19 @@
+{
+  "name": "kyber-prototype",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "kyber dev",
+    "build": "vite build",
+    "refresh-news": "node scripts/fetch-news.cjs && cp public/index.html dist/index.html && kyber deploy"
+  },
+  "devDependencies": {
+    "rss-parser": "^3.13.0",
+    "vite": "^8.0.0"
+  },
+  "dependencies": {
+    "@irbnb/kyber-client": "^1.1.45",
+    "@irbnb/kyber-injector-utils": "^0.0.8"
+  }
+}
